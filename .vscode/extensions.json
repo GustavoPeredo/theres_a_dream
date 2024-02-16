@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-typescript-next",
+        "rust-lang.rust-analyzer",
+        "vue.volar",
+        "vue.vscode-typescript-vue-plugin"
+    ]
+}
