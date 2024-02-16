@@ -2,7 +2,7 @@ backend/target
 frontend/node_modules
 frontend/dist
 result/
-bindings/
+./bindings/
 backend/bindings/*
 .direnv/
 .env
